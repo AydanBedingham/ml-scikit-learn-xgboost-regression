@@ -1,4 +1,4 @@
-# Scikit-Learn XG-Boost
+# ScikitLearn XGBoost Regression
 Jupyter Notebook that uses Scikit-Learn to train an XG-Boost machine learning model. This data was initially obtained from World Health Organization (WHO) and United Nations Website. Data contains features like year, status, life expectancy, adult mortality, infant deaths, percentage of expenditure, alcohol etc.
 
 - Tasks:
